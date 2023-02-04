@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FakeBukkitApi-jdk11">
+    <output-path>$PROJECT_DIR$/out/artifacts/FakeBukkitApi_jdk11</output-path>
+    <root id="archive" name="FakeBukkitApi-jdk11.jar">
+      <element id="module-output" name="FakeBukkitApi" />
+    </root>
+  </artifact>
+</component>
