@@ -1,2 +1,2 @@
 # BukkitFakeApi
-Fake library for make any jar-library to Bukkit Plugin
+Fake minimal bukkit plugin api for make any jar-library to Bukkit Plugin
